@@ -20,5 +20,6 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mohmdsaalim/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
