@@ -23,9 +23,15 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mohmdsaalim/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohmdsaalim/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
