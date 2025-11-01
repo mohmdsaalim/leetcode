@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mohmdsaalim/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
@@ -48,5 +49,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohmdsaalim/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
