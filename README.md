@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
 ## Hash Table
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,4 +80,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
