@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mohmdsaalim/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
