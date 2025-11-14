@@ -15,6 +15,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mohmdsaalim/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0125-valid-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/mohmdsaalim/leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
