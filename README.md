@@ -17,11 +17,13 @@
 | [1580-shuffle-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohmdsaalim/leetcode/tree/master/0001-two-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/mohmdsaalim/leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -110,4 +113,12 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
