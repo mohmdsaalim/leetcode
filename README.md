@@ -14,6 +14,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/mohmdsaalim/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mohmdsaalim/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/mohmdsaalim/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohmdsaalim/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/mohmdsaalim/leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
