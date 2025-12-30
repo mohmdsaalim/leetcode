@@ -71,6 +71,7 @@
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohmdsaalim/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/mohmdsaalim/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/mohmdsaalim/leetcode/tree/master/0326-power-of-three) |
 ## Prefix Sum
 |  |
 | ------- |
