@@ -13,6 +13,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohmdsaalim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohmdsaalim/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0409-longest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohmdsaalim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
