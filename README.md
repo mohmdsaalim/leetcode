@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohmdsaalim/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -93,6 +94,7 @@
 | [0002-add-two-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohmdsaalim/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mohmdsaalim/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohmdsaalim/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
@@ -167,4 +171,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohmdsaalim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
