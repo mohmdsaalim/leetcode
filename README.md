@@ -23,6 +23,7 @@
 | [1580-shuffle-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/mohmdsaalim/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/mohmdsaalim/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
