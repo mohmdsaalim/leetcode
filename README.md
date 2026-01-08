@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohmdsaalim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohmdsaalim/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mohmdsaalim/leetcode/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -46,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohmdsaalim/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/mohmdsaalim/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
