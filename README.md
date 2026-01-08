@@ -25,6 +25,7 @@
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/mohmdsaalim/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/mohmdsaalim/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
