@@ -85,6 +85,7 @@
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/mohmdsaalim/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/mohmdsaalim/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/mohmdsaalim/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -97,6 +98,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mohmdsaalim/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/mohmdsaalim/leetcode/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
 | ------- |
