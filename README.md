@@ -56,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/mohmdsaalim/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -74,6 +75,7 @@
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/mohmdsaalim/leetcode/tree/master/0742-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/mohmdsaalim/leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/mohmdsaalim/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0020-valid-parentheses](https://github.com/mohmdsaalim/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
