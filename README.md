@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/mohmdsaalim/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mohmdsaalim/leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -39,6 +40,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/mohmdsaalim/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
@@ -194,6 +196,7 @@
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
