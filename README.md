@@ -34,6 +34,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0234-palindrome-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0328-odd-even-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
