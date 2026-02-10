@@ -34,6 +34,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mohmdsaalim/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -117,6 +118,7 @@
 | [0258-add-digits](https://github.com/mohmdsaalim/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
+| [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohmdsaalim/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
