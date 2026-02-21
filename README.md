@@ -106,6 +106,7 @@
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohmdsaalim/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mohmdsaalim/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mohmdsaalim/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/mohmdsaalim/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mohmdsaalim/leetcode/tree/master/0326-power-of-three) |
@@ -227,6 +228,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohmdsaalim/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/mohmdsaalim/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohmdsaalim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Merge Sort
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohmdsaalim/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
