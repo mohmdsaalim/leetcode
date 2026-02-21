@@ -24,6 +24,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohmdsaalim/leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mohmdsaalim/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -71,6 +72,7 @@
 | [0344-reverse-string](https://github.com/mohmdsaalim/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -222,6 +224,7 @@
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
