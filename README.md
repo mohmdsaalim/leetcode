@@ -28,6 +28,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mohmdsaalim/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1550-three-consecutive-odds](https://github.com/mohmdsaalim/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
