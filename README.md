@@ -100,6 +100,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohmdsaalim/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3019-number-of-changing-keys](https://github.com/mohmdsaalim/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Math
 |  |
 | ------- |
