@@ -33,6 +33,7 @@
 | [1651-shuffle-string](https://github.com/mohmdsaalim/leetcode/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/mohmdsaalim/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -119,6 +120,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mohmdsaalim/leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mohmdsaalim/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
