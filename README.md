@@ -41,6 +41,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mohmdsaalim/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mohmdsaalim/leetcode/tree/master/3024-type-of-triangle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mohmdsaalim/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -132,6 +133,7 @@
 | [2652-sum-multiples](https://github.com/mohmdsaalim/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mohmdsaalim/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mohmdsaalim/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/mohmdsaalim/leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mohmdsaalim/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -245,6 +247,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mohmdsaalim/leetcode/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
