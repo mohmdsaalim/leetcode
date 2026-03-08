@@ -37,6 +37,7 @@
 | [1672-richest-customer-wealth](https://github.com/mohmdsaalim/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohmdsaalim/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohmdsaalim/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -156,6 +157,7 @@
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/mohmdsaalim/leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/mohmdsaalim/leetcode/tree/master/0367-valid-perfect-square) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/mohmdsaalim/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
 | ------- |
@@ -251,12 +254,14 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/mohmdsaalim/leetcode/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0409-longest-palindrome) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,4 +300,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohmdsaalim/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
