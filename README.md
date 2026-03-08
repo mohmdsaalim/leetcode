@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/mohmdsaalim/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohmdsaalim/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mohmdsaalim/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/mohmdsaalim/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mohmdsaalim/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohmdsaalim/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohmdsaalim/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/mohmdsaalim/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohmdsaalim/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohmdsaalim/leetcode/tree/master/0125-valid-palindrome) |
@@ -242,6 +244,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohmdsaalim/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohmdsaalim/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mohmdsaalim/leetcode/tree/master/0217-contains-duplicate) |
