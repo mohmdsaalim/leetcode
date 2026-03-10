@@ -194,11 +194,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohmdsaalim/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/mohmdsaalim/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
