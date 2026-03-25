@@ -9,4 +9,4 @@ func findPeakElement(nums []int) int {
 		}
 	}
 	return maxIdx
-}
+}// str
