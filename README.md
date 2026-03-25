@@ -156,6 +156,7 @@
 | [0035-search-insert-position](https://github.com/mohmdsaalim/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mohmdsaalim/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/mohmdsaalim/leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/mohmdsaalim/leetcode/tree/master/0367-valid-perfect-square) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
@@ -196,6 +197,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -216,6 +218,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -248,6 +251,7 @@
 | [0067-add-binary](https://github.com/mohmdsaalim/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mohmdsaalim/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohmdsaalim/leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohmdsaalim/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
