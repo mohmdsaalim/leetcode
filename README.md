@@ -134,6 +134,7 @@
 | [0412-fizz-buzz](https://github.com/mohmdsaalim/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohmdsaalim/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohmdsaalim/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -178,6 +179,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohmdsaalim/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
