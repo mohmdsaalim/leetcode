@@ -141,6 +141,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mohmdsaalim/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mohmdsaalim/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mohmdsaalim/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/mohmdsaalim/leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mohmdsaalim/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -180,6 +181,7 @@
 | [0328-odd-even-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohmdsaalim/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -246,6 +248,7 @@
 | [0234-palindrome-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/mohmdsaalim/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
