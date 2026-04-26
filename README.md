@@ -184,6 +184,7 @@
 | [0328-odd-even-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohmdsaalim/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/mohmdsaalim/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohmdsaalim/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -212,6 +213,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/mohmdsaalim/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohmdsaalim/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/mohmdsaalim/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/mohmdsaalim/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
