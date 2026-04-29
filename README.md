@@ -156,6 +156,7 @@
 | [0657-robot-return-to-origin](https://github.com/mohmdsaalim/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mohmdsaalim/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/mohmdsaalim/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohmdsaalim/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
@@ -185,6 +186,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohmdsaalim/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/mohmdsaalim/leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/mohmdsaalim/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohmdsaalim/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
