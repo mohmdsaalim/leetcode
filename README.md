@@ -190,6 +190,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/mohmdsaalim/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1669-merge-in-between-linked-lists](https://github.com/mohmdsaalim/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mohmdsaalim/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/mohmdsaalim/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohmdsaalim/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -202,6 +203,7 @@
 | [0206-reverse-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mohmdsaalim/leetcode/tree/master/0326-power-of-three) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0234-palindrome-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/mohmdsaalim/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mohmdsaalim/leetcode/tree/master/0844-backspace-string-compare) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
@@ -369,4 +372,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mohmdsaalim/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohmdsaalim/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
