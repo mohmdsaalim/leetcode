@@ -28,6 +28,7 @@
 | [0682-baseball-game](https://github.com/mohmdsaalim/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/mohmdsaalim/leetcode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohmdsaalim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohmdsaalim/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -169,6 +170,7 @@
 | [0162-find-peak-element](https://github.com/mohmdsaalim/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/mohmdsaalim/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/mohmdsaalim/leetcode/tree/master/0367-valid-perfect-square) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
@@ -287,6 +289,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mohmdsaalim/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
@@ -313,6 +316,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohmdsaalim/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohmdsaalim/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohmdsaalim/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohmdsaalim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohmdsaalim/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
@@ -353,6 +357,7 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/mohmdsaalim/leetcode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohmdsaalim/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/mohmdsaalim/leetcode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mohmdsaalim/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Memoization
